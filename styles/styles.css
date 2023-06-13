@@ -1,0 +1,64 @@
+body {
+    text-align: center;
+    background-color: lightgray;
+    margin: 50px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    margin-top: -250px
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    color: black;
+}
+
+section {
+    font-family: 'Fira Sans', sans-serif;
+    color: black;
+}
+
+a {
+    color: rgb(167, 1, 78);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+li {
+    list-style: none;
+}
+
+.objective {
+    color: purple;
+    font-size: 28px;
+    font-weight: 200;
+
+}
+
+.date {
+    color:rgb(90, 42, 69);
+}
+
+#todays-challenge {
+
+    color: blue;
+    font-weight: bold;
+    font-size: 36px;
+    width: 80%;
+    margin: 25px auto 15px auto;
+}
+
+footer {
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 24px;
+}
+
